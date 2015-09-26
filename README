@@ -1,0 +1,17 @@
+>Agenda/Plan : 
+	Version 0.1
+	-----------
+	-[DONE] Get all the tweets from a particular account.
+
+	-Get all the tweets from:X  to:Y time.
+
+	-Remove all the duplicate tweets.
+	[Probably 1 simple way is to completely delete a tweet starting with RT.
+	Though not sure how correct it would be! ]
+	
+	Version 0.2
+	-----------
+	-Find the topic that the tweet is talking about & accordingly put in 1 category.
+	[ Politics, Sports, Business, National ]
+
+	-Display the o/p news accordingly.
